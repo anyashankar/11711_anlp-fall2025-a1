@@ -2,7 +2,7 @@
 
 **Course:** 11-711 / 11-611 Advanced NLP (Fall 2025)  
 **Due:** September 25, 2025 at 11:59 PM  
-**Student:** [Your Name]  
+**Student:** Anya Shankar  
 
 ---
 
